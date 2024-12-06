@@ -1,0 +1,2 @@
+Projeto baseado em trabalho prático da disciplina de Programação e Administração de Banco de Dados.
+O projeto se baseia em um sistema backend de uma biblioteca, utilizando o framework Django integrado com o PostgreSQL. 
